@@ -1,0 +1,20 @@
+.portfolio{
+    font-size: 40px;
+
+}
+.review{
+    font-size: 40px;
+    color: #000000;
+    height: 50px;
+    width: 130px;
+    border-radius: 22px;
+    text-align: center;
+    background-color: white;
+}
+.menubar{
+    display: flex;
+    justify-content: space-between;
+    padding: 12px;
+    margin: 12px;
+  
+}

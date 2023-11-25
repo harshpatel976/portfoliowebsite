@@ -1,0 +1,32 @@
+.maincontaierthird{
+    height: 300px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}   
+.thirdtopic1{
+    font-size: 20px;
+   
+}
+.thirdtitle{
+    font-size: 100px;
+    font-weight: 500;
+    padding-top: 55px;
+    margin-left: 62px;
+}
+.thirdproj{
+    padding-left: 65px;
+    font-size: 25px;
+}
+.thirdproj .thirdname{
+    font-size: 65px;
+    font-weight: 800;
+}
+.thirdtopic2{
+    font-size:40px;
+    width: 60%;
+   text-align: center;
+   
+    margin: auto;
+    
+}

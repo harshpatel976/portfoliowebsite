@@ -1,0 +1,19 @@
+
+.title{
+    font-size: 300px;
+    font-weight: 900;
+    text-align: center;
+    line-height: 260px;
+    align-items: center;
+    justify-content: center;
+    
+}
+.container{
+    height: 600px;
+
+}
+.intro{
+    font-size: 25px;
+    color: white;
+    text-align: center;
+}

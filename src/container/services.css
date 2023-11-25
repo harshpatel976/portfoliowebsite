@@ -1,0 +1,103 @@
+.servicecontainer{
+    height: 650px;
+    padding: 25px;
+    margin-left: 25px;
+    margin-bottom: 25px;
+    
+    
+}
+.projecttitle{
+    font-size: 60px;
+    
+    
+}
+.servicetitle .title1{
+    
+    background-color: transparent;
+    color: black;
+    
+}
+.servicetitle .arrow{
+    padding-right: 25px;
+    color: black;
+    
+}
+.servicetitle{
+    background-color: transparent;
+    font-size: 30px;
+    color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.serviceection{
+    display: flex;
+    justify-content: space-between;
+    font-size: 25px;
+    padding: 12px;
+   
+    
+}
+.serviceprov{
+    height: 150px;
+   
+    
+    background-color: white;
+    padding-left: 12px;
+    color: black;
+
+}
+.serviceleft{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.serviceview{
+    font-size: 15px;
+    background-color: transparent;
+    color: black;
+}
+.arrow{
+    background-color: transparent;
+    color: black;
+
+}
+.arrow:hover{
+    color: orangered;
+}
+
+
+
+
+.text-wrapper{
+    display: flex;
+    justify-content: flex-start;
+    background-color: white;
+    overflow: hidden;
+    
+}
+h1{
+    font-size: 48px;
+    text-transform: uppercase;
+    color: transparent;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 0.9px;
+    white-space: nowrap;
+    padding: 0 3rem;
+    background-color: transparent;
+    letter-spacing: 1px;
+    animation: move 6000ms linear infinite;
+}
+@keyframes move{
+    0%{
+        transform: translateX(0);
+
+    }
+    100%{
+        transform: translateX(-100%);
+    }
+}
+
+

@@ -1,0 +1,39 @@
+.getcontainer{
+    padding: 25px;
+    margin-top: 12px;
+}
+.titleget{
+    font-size: 150px;
+    text-align: center;
+    color: white;
+    
+}
+ .harsh{
+    height: 150px;
+    width:150px;
+    border-radius: 200px;
+}
+.containergetin{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 55%;
+    margin: auto;
+}
+.linkgetintouch{
+    display: flex;
+    justify-content: space-between;
+    width: 18%;
+    align-items: center;
+    margin: auto;
+    font-size: 17px;
+    font-weight: 100;
+
+}
+.linkgetintouch a{
+    text-decoration: none;
+    font-weight: 20;
+}
+.linkgetintouch a:hover{
+    color: orange;
+}
